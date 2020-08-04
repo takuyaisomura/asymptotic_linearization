@@ -21,7 +21,7 @@
 
 clear
 T            = 40000;           % training sample size
-NT           = 20;              % number of input dimensionalities
+NT           = 20;              % number of trials
 
 seed         = 0;
 rng(1000000+seed);              % set seed for reproducibility
